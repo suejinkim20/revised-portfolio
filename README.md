@@ -18,14 +18,14 @@ Issues that are still being addressed:
     * Specifically, making the heights/sizes of the portfolio images adjust flexibly in addition to the widths.
 
 ## Usage
-This website is a portfolio website intended to showcase the website developer's work and information. The following screenshots show the website on a web browser.
+This website is a portfolio website intended to showcase the website developer's work and information. The website is deployed at the following link: https://suejinkim20.github.io/revised-portfolio/
 
-![Screen Shot 1](assets/images/screenshot1.png)
-![Screen Shot 2](assets/images/screenshot2.png)
-![Screen Shot 3](assets/images/screenshot3.png)
-![Screen Shot 4](assets/images/screenshot4.png)
+The following screenshots show the website on a web browser.
 
-The website is deployed at the following link: https://suejinkim20.github.io/SueJinKim-Portfolio/
+![Screen Shot 1](assets/images/webpage-screenshot.png)
+
+
+
 
 
 ## Credits
