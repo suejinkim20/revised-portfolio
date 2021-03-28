@@ -110,11 +110,12 @@ h3 {
     padding: 0px 25px;
     text-align: left;
 }
-.contact-me a {
+.contact-links {
     text-decoration: none;
+    color: rgb(58, 58, 58)
 }
-.contact-me a:hover {
-    
+.contact-links:hover {
+    color: rgb(0, 145, 255)
 }
 
 /*css grid my-work images*/
@@ -126,6 +127,10 @@ h3 {
     margin: 20px;
 }
 
+.portfolio-cards a{
+    color: rgb(58, 58, 58)
+}
+/*
 .portfolio-cards > article {
     flex-wrap: wrap;
     width: 50%;
@@ -141,11 +146,11 @@ h3 {
     flex: auto;
     width: 100%;
     height: 400px;
-}
+} */
 
 
 /*overlay text on image*/
-#portfolio-card-item {
+/* #portfolio-card-item {
     position: relative;
 }
 
@@ -154,16 +159,16 @@ h3 {
     bottom: 30px;
     left: 30px;
     background-color: rgba(255, 255, 255, 0.426);
-}
+} */
 
 /* images show border when hovered over */
-.portfolio-cards > article {
+/* .portfolio-cards > article {
     transition: 0.3s;
 }
 .portfolio-cards > article:hover {
     transform: scale(1.06);
     cursor: pointer;
-} 
+}  */
 
 
 /* remove bullets from unordered list under contacts */
@@ -187,7 +192,7 @@ footer {
 
 /* Media queries */
 
-@media screen and (max-width: 550px) {
+/* @media screen and (max-width: 550px) {
     .about-me-section {
         display: flex;
         flex-wrap: wrap;
@@ -204,7 +209,7 @@ footer {
         flex-wrap: wrap;
         width: 100%;
     }
-}
+} */
 
 @media screen and (max-width: 600px) {
     .topnav a:not(:first-child) {display: none;}
