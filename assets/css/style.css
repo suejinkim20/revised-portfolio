@@ -96,7 +96,7 @@ h3 {
     margin-top: 40px;
 }
 
-/* Style about me so that photo is on left*/
+/* Style about me so that about me and contact are side-by-side*/
 .about-me-section {
     display: flex;
 }
@@ -109,6 +109,12 @@ h3 {
     margin: auto;
     padding: 0px 25px;
     text-align: left;
+}
+.contact-me a {
+    text-decoration: none;
+}
+.contact-me a:hover {
+    
 }
 
 /*css grid my-work images*/
