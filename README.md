@@ -2,9 +2,8 @@
 Ongoing work in project, this portfolio has been built using HTML and CSS.
 
 ## Description
-This website has been created using HTML and CSS knowledge learned from UNC Coding Bootcamp.
+This website has been created using HTML, CSS, and Bootstrap.
 
-As of 02-13-21, the following criteria have been met:
 * Developer's name, recent photo are presented
 * Links to sections about the developer, the developer's work, and how to contact the devloper are displayed in a navigation bar
 * Navigation links scroll to corresponding sections
@@ -17,15 +16,17 @@ Issues that are still being addressed:
 * Continuing to experiment with the layout of the page to optimize responsive design
     * Specifically, making the heights/sizes of the portfolio images adjust flexibly in addition to the widths.
 
+Notes to self:
+* Include collaboration work (and other soft skills) with assistants/coaches/PLCs
+* Need to consolidate verbiage on LinkedIn
+* Add Coursera certifications
+
 ## Usage
 This website is a portfolio website intended to showcase the website developer's work and information. The website is deployed at the following link: https://suejinkim20.github.io/revised-portfolio/
 
 The following screenshots show the website on a web browser.
 
 ![Screen Shot 1](assets/images/webpage-screenshot.png)
-
-
-
 
 
 ## Credits
@@ -37,6 +38,8 @@ The following screenshots show the website on a web browser.
     * project 1 photo: https://images.unsplash.com/photo-1518226203301-8e7f833c6a94?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80
     * project 2 photo: https://images.unsplash.com/photo-1522032662723-6649e699785f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1950&q=80
 * Responsive Nav: https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
+* Resizing Background Images: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Resizing_background_images
+
 
 ## Licensing
 
