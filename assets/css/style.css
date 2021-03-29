@@ -119,6 +119,11 @@ h3 {
 }
 
 /*css grid my-work images*/
+.my-work h2{
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
 .portfolio-cards {
     display: flex;
     justify-content: center;
@@ -127,9 +132,10 @@ h3 {
     margin: 20px;
 }
 
-.portfolio-cards a{
+.portfolio-cards p {
     color: rgb(58, 58, 58)
 }
+
 /*
 .portfolio-cards > article {
     flex-wrap: wrap;
